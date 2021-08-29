@@ -1,8 +1,8 @@
-### Scientific Calculator project for my microprocessor class fall 2020.
+# Scientific Calculator project for my microprocessor class fall 2020.
 
-# It works with 4x4 keypad and 4x seven segment display.
+#### It works with stm32g0 dev. board, 4x4 keypad and 4x seven segment display.
 
-# Features:\$ $\
+#### Features:
 
 -It computes several operations between -999 , 9999 range.
 -It can show negative and float numbers
