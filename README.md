@@ -4,9 +4,9 @@
 
 #### Features:
 
--It computes several operations between -999 , 9999 range.
--It can show negative and float numbers
--Calculations that you can operate;
-addition, subtraction, multiplication, divison, log, ln, sqrt, power, sin, cos, tan, cot, pi...
+-It computes several operations between -999 , 9999 range.<br/>
+-It can show negative and float numbers<br/>
+-Calculations that you can operate;<br/>
+addition, subtraction, multiplication, divison, log, ln, sqrt, power, sin, cos, tan, cot, pi...<br/>
 
 You can check the pdf document for detailed explanation.
