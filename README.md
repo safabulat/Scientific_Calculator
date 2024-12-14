@@ -1,12 +1,18 @@
-# Scientific Calculator project for my microprocessor class fall 2020.
+# Scientific Calculator  
+A precision calculator built for STM32G0, integrating hardware components for advanced functionality.
 
-#### It works with stm32g0 dev. board, 4x4 keypad and 4x seven segment display.
+## Features  
+- Performs calculations: addition, subtraction, multiplication, division, logarithms, trigonometric functions, and square roots.  
+- Handles negative and floating-point numbers.  
+- User-friendly interface with a 4x4 keypad and a 4x7 segment display.
 
-#### Features:
+## Technologies Used  
+- Embedded C  
+- STM32G0 development board  
+- 4x4 Keypad, 7-segment display  
 
--It computes several operations between -999 , 9999 range.<br/>
--It can show negative and float numbers<br/>
--Calculations that you can operate;<br/>
-addition, subtraction, multiplication, divison, log, ln, sqrt, power, sin, cos, tan, cot, pi...<br/>
+## Setup  
+1. Connect the STM32G0 board as per the schematic provided in the repository.  
+2. Flash the firmware using an STM32-compatible IDE.  
 
-You can check the pdf document for detailed explanation.
+For detailed operation, refer to the included PDF documentation.
